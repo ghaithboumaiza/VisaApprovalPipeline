@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+flake8
+black
+xgboost
+catboost
+dvc
+dvc-gs
+evidently
+google-cloud-monitoring
+gradio
+google-cloud-storage
+joblib
